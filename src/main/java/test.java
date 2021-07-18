@@ -6,5 +6,6 @@ public class test {
     public static void main(String[] args) {
         System.out.println("hello~ IDEA_git");
         System.out.println("hello~ IDEA_git_2");
+        System.out.println("hello~ IDEA_git_3");
     }
 }
