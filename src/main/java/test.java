@@ -7,5 +7,6 @@ public class test {
         System.out.println("hello~ IDEA_git");
         System.out.println("hello~ IDEA_git_2");
         System.out.println("hello~ IDEA_git_3");
+        System.out.println("hello~ IDEA_git_4-hotfix");
     }
 }
