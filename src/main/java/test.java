@@ -11,5 +11,6 @@ public class test {
         System.out.println("hello~ IDEA_git_5-MASTER");
         System.out.println("hello~ IDEA_git_4-hotfix-2");
         System.out.println("hello~ IDEA_git_6-MASTER");
+        System.out.println("hello~ IDEA_git_7-MASTER");
     }
 }
